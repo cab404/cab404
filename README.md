@@ -19,3 +19,5 @@ Pronouns: all of them.
 - Email: [me@cab404.ru](mailto:me@cab404.ru?subject=Regarding%20That%20Resume%20Page), you can use this GPG key
 - Matrix: [@cab404:matrix.org](https://matrix.to/#/@cab404:matrix.org)
 - Keybase: [cab404](https://keybase.io/cab404)
+- Mastodon: [@cab404@mastodon.xyz](https://mastodon.xyz/@cab404)
+- Liberapay: [cab404](https://liberapay.com/cab404/)
