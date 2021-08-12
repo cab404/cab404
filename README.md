@@ -5,7 +5,7 @@ I also have some stuff on [GitLab](https://gitlab.com/cab404) and [Google Play](
 
 **Fun facts**\
 :printer: love to tinker with 3D printers\
-:space_invader: oversee a [hackerspace](undef.club)!\
+:space_invader: oversee a [hackerspace](https://undef.club)!\
 :star: make silicone sex toys\
 :heart: PR on first sight\
 :unicorn: am a sparkling unicorn princess
