@@ -1,5 +1,5 @@
 ### Hi there :wave: I'm Cab!
-I am software developer from Moscow. Still love **NixOS**, hate/love **Python**. **Android+Kotlin** in the past and **Rust or Python** in the present.
+I am software developer from Moscow. Still love **NixOS**, hate/love **Python**. **Android+Kotlin** in the past and **Rust** in the present.
 
 I also have some stuff on [GitLab](https://gitlab.com/cab404) and [Google Play](https://play.google.com/store/apps/dev?id=7988616941320407619)
 
