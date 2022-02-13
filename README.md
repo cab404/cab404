@@ -23,5 +23,4 @@ Pronouns: all of them.
 - Liberapay: [cab404](https://liberapay.com/cab404/)
 
 ### Supporting me
-* Send me some money on this Etherium address: 0xf24e28A42D941E7f2b83307Ec64CfF4FADAAe9B5
-* Or even better, to this Polygon Network address: 0xaA534Ef01cb5a67FB40dc0713e7Ee0B68C7B7693
+* Polygon Network: `0xaA534Ef01cb5a67FB40dc0713e7Ee0B68C7B7693`
