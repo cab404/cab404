@@ -13,7 +13,7 @@ I also have some stuff on [GitLab](https://gitlab.com/cab404)
 Pronouns: all of them.
 
 ---
-### Getting ~~to~~ in touch
+### Getting to/in touch
 
 - Telegram: [@cabiarangris](https://t.me/cabiarangris)
 - Email: [me@cab404.ru](mailto:me@cab404.ru?subject=Regarding%20That%20Resume%20Page), you can use this GPG key
