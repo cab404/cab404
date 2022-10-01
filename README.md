@@ -16,7 +16,7 @@ Pronouns: all of them.
 ### Getting to/in touch
 
 - Telegram: [@cabiarangris](https://t.me/cabiarangris)
-- Email: [me@cab404.ru](mailto:me@cab404.ru?subject=Regarding%20That%20Resume%20Page), you can use this GPG key
+- Email: [cab404+github@mailbox.org](mailto:cab404+github@mailbox.org)
 - Matrix: [@cab404:matrix.org](https://matrix.to/#/@cab404:matrix.org)
 - Keybase: [cab404](https://keybase.io/cab404)
 - Mastodon: [@cab404@mastodon.xyz](https://mastodon.xyz/@cab404)
