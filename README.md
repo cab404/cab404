@@ -1,6 +1,6 @@
 ### Hi there :wave: I'm Cab!
 
-Still love **NixOS**, hate/love **Python**. **Android+Kotlin** in the past, **Rust** in the present, **Typescript** somewhere inbetween.
+Still love **NixOS**, hate/love **Python**. **Android+Kotlin** in the past, **Rust** in the present, **Typescript** somewhere in between.
 
 I also have some stuff on [GitLab](https://gitlab.com/cab404)
 
