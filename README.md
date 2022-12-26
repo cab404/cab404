@@ -16,7 +16,7 @@ Pronouns: all of them.
 ---
 ### Getting to/in touch
 
-Yes, I will probably be glad to answer questions about my projects)
+Yes, I will probably be glad to answer questions or co-work)
 
 - Telegram: [@cabiarangris](https://t.me/cabiarangris)
 - Discord: [@cab](https://discord.com/users/111870063165898752)
