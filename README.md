@@ -18,6 +18,7 @@ Pronouns: all of them.
 
 Yes, I will probably be glad to answer questions or co-work)
 
+- Plan a Jitsi meeting!: https://cal.com/cab404
 - Telegram: [@cabiarangris](https://t.me/cabiarangris)
 - Discord: [@cab](https://discord.com/users/111870063165898752)
 - Email: [cab404+github@mailbox.org](mailto:cab404+github@mailbox.org)
