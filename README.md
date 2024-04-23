@@ -11,6 +11,8 @@ I also have some stuff on [GitLab](https://gitlab.com/cab404)
 :heart: PR on first sight\
 :unicorn: am a sparkling unicorn princess
 
+💼 **Looking for a job!** 🌠
+
 Pronouns: all of them.
 
 ---
