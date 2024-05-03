@@ -11,9 +11,12 @@ I also have some stuff on [GitLab](https://gitlab.com/cab404)
 :heart: PR on first sight\
 :unicorn: am a sparkling unicorn princess
 
-💼 **Looking for a job!** 🌠
-
 Pronouns: all of them.
+
+### 💼 **Looking for a job!** 🌠
+[**→ here's my resume! ←**](https://github.com/cab404/resume.typ/releases/download/latest/resume.pdf)
+
+[*here's its source code!*](https://github.com/cab404/resume.typ)
 
 ---
 ### Getting to/in touch
