@@ -13,10 +13,14 @@ I also have some stuff on [GitLab](https://gitlab.com/cab404)
 
 Pronouns: all of them.
 
+<!-- Not actively...
+
 ### 💼 **Looking for a job!** 🌠
 [**→ here's my resume! ←**](https://github.com/cab404/resume.typ/releases/download/latest/resume.pdf)
 
 [*here's its source code!*](https://github.com/cab404/resume.typ)
+
+-->
 
 ---
 ### Getting to/in touch
